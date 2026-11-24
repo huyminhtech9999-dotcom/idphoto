@@ -57,3 +57,11 @@ An offline, AI-powered desktop application that automates the process of capturi
 +Full Biometric Validation: Add automated checks for head tilt and eye openness before saving.
 
 +Direct Printing: Integrate a printer management module to print directly on standard 10x15cm photo paper.
+
+👥 Authors & Credits
+
+Authors: Lê Hoàng Anh (Class 11A02), Nguyễn Minh Huy (Class 12A07)   
+
+Advisor: Thượng Tiểu Loan   
+
+Institution: Tu Nghia No. 1 High School, Quang Ngai, Vietnam (December 2025)   
