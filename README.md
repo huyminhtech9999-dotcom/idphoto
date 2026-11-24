@@ -3,7 +3,7 @@
 
 An offline, AI-powered desktop application that automates the process of capturing, segmenting, and cropping standardized biometric ID photos right at home. Developed for the 2025–2026 Provincial Science and Engineering Fair for High School Students (Category: Systems Software) by students of Tu Nghia No. 1 High School, Quang Ngai .
 
-💡 MotivationWith the rapid expansion of digital public services (such as chip-based Citizen IDs, e-passports, VNeID, and university entrance dossiers under Project 06), the demand for standardized digital ID photos is growing. However, traditional photo studios pose several barriers:  
+💡 Motivation With the rapid expansion of digital public services (such as chip-based Citizen IDs, e-passports, VNeID, and university entrance dossiers under Project 06), the demand for standardized digital ID photos is growing. However, traditional photo studios pose several barriers:  
 
 +Time & Distance: Inconvenient for residents in rural/remote areas, students, and office workers. 
 + Accessibility: Difficult for the elderly and people with disabilities to travel and pose at traditional studios.  +
