@@ -49,7 +49,11 @@ An offline, AI-powered desktop application that automates the process of capturi
 <img width="977" height="509" alt="image" src="https://github.com/user-attachments/assets/a1cf7d4a-e8f4-4395-b55a-b20fa7e1099e" />
 
 🚀 Future RoadmapGenerative AI Enhancement:
+
 +Auto-adjust lighting, smooth skin, and automatically edit attire (e.g., adding collared shirts or suits).
+
 +Cross-Platform Support: Develop mobile versions (Android/iOS) and a Web-app.
+
 +Full Biometric Validation: Add automated checks for head tilt and eye openness before saving.
+
 +Direct Printing: Integrate a printer management module to print directly on standard 10x15cm photo paper.
