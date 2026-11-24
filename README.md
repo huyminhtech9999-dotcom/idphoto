@@ -27,6 +27,7 @@ An offline, AI-powered desktop application that automates the process of capturi
 +GUI & Concurrency: Tkinter, threading   Distribution: Windows standalone executable (.exe)
 📊 Experimental ResultsField testing was conducted with 50–100 volunteers at school, achieving over 85% compatibility with Vietnamese ID photo standards (suitable for student dossiers, student IDs, and standard administrative procedures).
 <img width="977" height="509" alt="image" src="https://github.com/user-attachments/assets/a1cf7d4a-e8f4-4395-b55a-b20fa7e1099e" />
+
 🚀 Future RoadmapGenerative AI Enhancement:
 +Auto-adjust lighting, smooth skin, and automatically edit attire (e.g., adding collared shirts or suits).
 +Cross-Platform Support: Develop mobile versions (Android/iOS) and a Web-app.
