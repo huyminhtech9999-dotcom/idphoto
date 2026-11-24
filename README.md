@@ -6,11 +6,11 @@ An offline, AI-powered desktop application that automates the process of capturi
 💡 Motivation With the rapid expansion of digital public services (such as chip-based Citizen IDs, e-passports, VNeID, and university entrance dossiers under Project 06), the demand for standardized digital ID photos is growing. However, traditional photo studios pose several barriers:  
 
 +Time & Distance: Inconvenient for residents in rural/remote areas, students, and office workers. 
-+ Accessibility: Difficult for the elderly and people with disabilities to travel and pose at traditional studios.  +
++ Accessibility: Difficult for the elderly and people with disabilities to travel and pose at traditional studios.  
 + Cost Waste: Studios often require paid physical prints even when online portals only need digital files.
 + Privacy Risks: Uploading portraits to untrusted online editing tools risks facial data leaks (e.g., deepfakes or scams).
 + Smart ID Photo Capture Software solves these issues by turning any PC with a webcam into a private, offline "at-home photo studio".
-+ 
+
 ✨ Key Features
 
 +Real-Time AI Alignment: Uses YOLOv8n to detect the subject's position in real time and displays a bounding box with visual on-screen guidance so users can align their head and shoulders independently.
